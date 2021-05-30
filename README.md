@@ -26,3 +26,8 @@
 - Bibliotecas principais
   - <code>npm i react react-dom</code>
   - <code>npm i -D @types/react @types/react-dom</code>
+
+###Bundle
+
+- Gerar arquivo JS /_usar webpack.config.js como base_/
+  - <code>npm i -D webpack webpack-cli webpack-dev-server clean-webpack-plugin</code>

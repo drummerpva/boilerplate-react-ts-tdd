@@ -9,7 +9,7 @@
   - <code>npm i -D typescript @types/node</code>
 
 - Linter /_Usar o .eslintrc.json, .eslintignore e .prettierrc como base_/
-  - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin</code>
+  - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin eslint-plugin-react</code>
 
 ###Git Hooks
 
@@ -19,7 +19,7 @@
 ###Jest
 
 - Biblioteca de testes /_usar o jest.config.js como base e scripts estão package.json_/
-  - <code>npm i -D jest @types/jest ts-jest faker</code>
+  - <code>npm i -D jest @types/jest ts-jest faker identity-obj-proxy</code>
 
 ###React
 
@@ -31,3 +31,8 @@
 
 - Gerar arquivo JS /_usar webpack.config.js como base_/
   - <code>npm i -D webpack webpack-cli webpack-dev-server clean-webpack-plugin</code>
+
+###SASS
+
+- Processador de CSS
+  - <code>npm i -D node-sass sass-loader css-loader style-loader ts-loader</code>

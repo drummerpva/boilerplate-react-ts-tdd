@@ -5,4 +5,8 @@
   - <code> npm i -D git-commit-msg-linter</code>
 
 - TypeScript /_Usar o tsconfig.json como base_/
+
   - <code>npm i -D typescript @types/node</code>
+
+- Linter /_Usar o .eslintrc.json e .eslintignore como base_/
+  - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin</code>

@@ -19,4 +19,4 @@
 ###Jest
 
 - Biblioteca de testes /_usar o jest.config.js como base e scripts estão package.json_/
-  - <code>npm i -D jest @types/jest ts-jest</code>
+  - <code>npm i -D jest @types/jest ts-jest faker</code>

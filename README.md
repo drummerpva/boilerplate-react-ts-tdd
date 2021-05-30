@@ -10,3 +10,8 @@
 
 - Linter /_Usar o .eslintrc.json e .eslintignore como base_/
   - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin</code>
+
+###Git Hooks
+
+- Garantir que o código esteja formatado corretamente antes do commit/_Usar .lintstagedrc.json e .huskyrc.json como base_/
+  - <code>npm i -D lint-staged husky</code>
